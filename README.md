@@ -19,39 +19,39 @@ name="Amanda Nicotina"
 current_position="Post-doctoral Research Assistant"
 employer="TUM BNMRZ"
 education = [
-	"Self-Taught Research Engineer",
+    "Self-Taught Research Engineer",
     "PhD in Optimal Control for Pulse Optimization in NMR and MRI Applications",
     "MSc in Physics",
- 	"BSc in Physics",
+    "BSc in Physics",
 ]
 
 [Work]
 current_projects = [
-	"GrapeMR.jl",
-  	"OptimizationMRI.jl ",
- 	"mri-lab.py",   
+    "GrapeMR.jl",
+    "OptimizationMRI.jl ",
+    "mri-lab.py",   
 ]
 
 fields_of_interest = [
-	"MRI",
+    "MRI",
     "Neuroimaging",
     "Software Development",
     "Teaching",
 ]
 
 side_projects = [
-	"JuliaHealth Community",
+    "JuliaHealth Community",
     "JuliaCon Event Organization",
 ]
 
 currently_learning = [
-	"Advanced Python",
- 	"Machine Learning for MRI",   
+    "Advanced Python",
+    "Machine Learning for MRI",   
 ]
 
 [Personal]
 hobbies = [
-	"Weightlifting 🏋🏻‍♀️",
+    "Weightlifting 🏋🏻‍♀️",
     "Bicycle Tours 🚵🏻‍♀️",
     "Reading 📚",
     "Guitar 🎸",
