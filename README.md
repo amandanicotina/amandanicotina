@@ -1,44 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey There!👩🏻‍💻&fontColor=fff&animation=fadeIn&type=waving&color=0:389826,50:9558B2,100:D23D3D&height=100"/>
+  <img src="assets/hey_there.png"/>
 </p>
+
+
+
+<details>
+    <summary></summary>
 
 ## About Me
 
 ```toml
-name: Amanda Nicotina
-current_position: Post-doctoral Research Assistant
-employer: TUM BNMRZ
-education:
-- Self-Taught Research Engineer
-- PhD in Optimal Control for Pulse Optimization in NMR and MRI Applications
-- MSc in Physics 
-- BSc in Physics
+[Bio]
+name="Amanda Nicotina"
+current_position="Post-doctoral Research Assistant"
+employer="TUM BNMRZ"
+education = [
+	"Self-Taught Research Engineer",
+    "PhD in Optimal Control for Pulse Optimization in NMR and MRI Applications",
+    "MSc in Physics",
+ 	"BSc in Physics",
+]
 
-current_projects: 
-- GrapeMR.jl
-- OptimizationMRI.jl 
-- mri-lab.py
+[Work]
+current_projects = [
+	"GrapeMR.jl",
+  	"OptimizationMRI.jl ",
+ 	"mri-lab.py",   
+]
 
-fields_of_interest:
-- MRI
-- Neuroimaging
-- Software Development
-- Teaching
+fields_of_interest = [
+	"MRI",
+    "Neuroimaging",
+    "Software Development",
+    "Teaching",
+]
 
-side_projects:
-- JuliaHealth Community 
-- JuliaCon Event Organization
+side_projects = [
+	"JuliaHealth Community",
+    "JuliaCon Event Organization",
+]
 
-currently_learning:
-- Advanced Python
-- Machine Learning for MRI
+currently_learning = [
+	"Advanced Python",
+ 	"Machine Learning for MRI",   
+]
 
-
-hobbies:
-- Weightlifting 🏋🏻‍♀️
-- Bicycle Tours 🚵🏻‍♀️
-- Reading 📚
-- Guitar 🎸
+[Personal]
+hobbies = [
+	"Weightlifting 🏋🏻‍♀️",
+    "Bicycle Tours 🚵🏻‍♀️",
+    "Reading 📚",
+    "Guitar 🎸",
+]
 ```
 
 ## Tech Skills and Tools
@@ -48,6 +61,7 @@ hobbies:
 
 <!-- Physics! / OptimalControl / Maths! / MRI! / NMR! -->
 <!-- PowerPoint / Presentation Skills / Teaching! -->
-          
 
-![Snake animation](https://github.com/amandanicotina/amandanicotina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amandanicotina/amandanicotina/blob/output/github-contribution-grid-snake.svg?sanitize=true)
+
+</details>
