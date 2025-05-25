@@ -2,10 +2,14 @@
   <img src="assets/hey_there.png"/>
 </p>
 
+- 🔭 I’m currently working on [GrapeMR.jl](https://github.com/amandanicotina/GrapeMR.jl)
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amanda-nicotina-62848a143/)
+
+- ⚡ Fun fact: I actually don't smoke
 
 <details>
-    <summary></summary>
+    <summary>More About Me</summary>
 
 ## About Me
 
