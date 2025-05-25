@@ -66,6 +66,9 @@ hobbies = [
 <!-- Physics! / OptimalControl / Maths! / MRI! / NMR! -->
 <!-- PowerPoint / Presentation Skills / Teaching! -->
 
+<!--
+Trying to make https://raw.githubusercontent.com/Platane/snk/refs/heads/main/README.md work but no luck so far.
+
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
@@ -77,9 +80,11 @@ hobbies = [
     />
     <img
         alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/amandanicotina/amandanicotina/output/github-contribution-grid-snake.svg"
+        src="https://raw.githubusercontent.com/amandanicotina/amandanicotina/output/github-contribution-grid-snake.svg?sanitize=true"
     />
 </picture>
+
 ![Snake animation](https://github.com/amandanicotina/amandanicotina/blob/output/github-contribution-grid-snake.svg)
+-->
 
 </details>
